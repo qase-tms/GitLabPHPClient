@@ -1,0 +1,20 @@
+src/Client.php
+  s_124c734d2f351f::t_761d731efff05a 338-339
+  s_124c734d2f351f::t_e25ced930ccf55 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "a7c0e51ad58cbd374e4d3c95436a2180a6354127",
+  "prompts": {},
+  "sessions": {
+    "s_124c734d2f351f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "37f9dab0-3c63-4ee9-b124-1d16ffb9c394",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Dmitrii Gridnev <dgridnev@qase.io>"
+    }
+  }
+}
